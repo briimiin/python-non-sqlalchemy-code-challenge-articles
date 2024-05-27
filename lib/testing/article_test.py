@@ -7,6 +7,7 @@ from classes.many_to_many import Author
 
 class TestArticle:
     """Article in many_to_many.py"""
+    
 
     def test_has_title(self):
         """Article is initialized with a title"""
